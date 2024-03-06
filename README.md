@@ -1,4 +1,6 @@
-This repository is a template for a portfolio website using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/). It is a simple, clean, and responsive website that can be used to showcase your experience and projects. It looks good on both desktop and mobile devices.
+This repository is a template for a portfolio website using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/). It is a simple, clean, and responsive website that can be used to showcase your experience and projects. It looks good on both desktop and mobile devices.  
+
+Click here for a live demo of the template: https://portfolio-web-template.vercel.app/
 
 ## Getting Started
 
@@ -42,6 +44,6 @@ Also edit the GitHub and LinkedIn links in `ExternalLinks.jsx` in the `component
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com) from the creators of Next.js.  
+The easiest way to deploy your website is to use the [Vercel Platform](https://vercel.com) from the creators of Next.js.  
 
-Make sure to also include the environment variables you added in the `.env.local` file in Vercel during the deployment process to make the email functionality work.
+Make sure to also include the environment variables you added in the `.env.local` file in Vercel during the deployment process to make the email functionality work. Deployment might fail if the environment variables are not set properly on Vercel.
